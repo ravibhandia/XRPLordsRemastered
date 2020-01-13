@@ -5,6 +5,7 @@ The XRP network is full of rich transaction activity. The aim of this repo is to
 ## Projects
 
 1. Anomaly Detection
+We want to use timeseries predictions with some threshold to help determine whether or not a transaction should be flagged or labeled as an anomaly. This may incorporate some linear regression into the timeseries prediction as well.
 
 > Transactions/Ledger
 
