@@ -1,0 +1,11 @@
+
+# Ignore OS X local files 
+.DS_Store
+
+# Ignore Jupyter notebook local files
+.ipynb_checkpoints
+
+#ReallyBig DataFiles
+
+# GCP creditials 
+credential/*
