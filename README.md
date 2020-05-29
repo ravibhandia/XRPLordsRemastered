@@ -6,18 +6,11 @@ One of the benefits of blockchain is anonymity for its users of the network, mak
 
 **The aim of this project** is four-fold: to provide Ripple with an anomaly detection tool to enable quick reaction to and investigation of events on the XRP Ledger, to understand the main drivers of XRP's price, to segment customer archetypes based on their activity on the XRP ledger, and finally to identify and remove fake volume payments.
 
-**Our deliverables** are: 
-
-
-* Weekly/Monthly report summarizing the activity on the ledger
-
-* Slackbot for real-time anomaly detection
-
-* Medium article showcasing account archetype findings and removal of fake volume payments
-
-* Medium article showcasing price prediction findings
-
 Our **value proposition** touches multiple aspects. The Fintech space is a fast-paced environment and it’s essential to acquire information as quickly as possible. Our Slackbot allows Ripple’s engineers and product managers to quickly identify potential anomalies in their products, while our weekly reports provide them with a bigger picture of the situation. The account labeling identifies which types of accounts are producing those anomalies, and our models for price prediction shows how those anomalies reflect on XRP’s price.
 
 **Suggestions for future work**
 Multiple other metrics including churn rate of the network could be forecasted and would be valuable signals for the teams at Ripple. Additionally, using more complex modeling techniques could have superior performance especially considering the time-series nature and the abundance of data available.
+
+<p align='center'>
+    <img src="images/brief.png?raw=true"/>
+</p>
