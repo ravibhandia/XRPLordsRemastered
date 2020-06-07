@@ -1,4 +1,4 @@
-﻿# Historical analysis for live anomaly detection on Ripple's Blockchain
+﻿# Historical analysis for live anomaly detection on the XRP Ledger
 
 The XRP Ledger is a blockchain network full of rich transaction activity. Blockchain technologies have erupted in the past decade. The potential use cases have been enumerated by many tech pundits, but few technologies have actually matured and become mainstays of the ecosystem in which they were made. Ripple, the creator of the XRP Ledger, has the goal of making global transaction payments and settlements seamless. The ledger network which they operate has millions of dollars transacted every day. 
 
