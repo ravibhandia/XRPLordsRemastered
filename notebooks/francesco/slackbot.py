@@ -11,7 +11,7 @@ from datetime import datetime
 import re
 
 tx_count_bound = 200
-fees_bound = 15395
+fees_bound = 153950
 
 token = 'your token here'
 slack = Slacker(token)
@@ -63,6 +63,7 @@ no_repeat1 = ''
 ledger1 = ''
 while True:
     check, y = check_tx_count_great(tx_count_bound)
+    time.sleep(1.5)
     check1, x = fees_great(fees_bound)
     if check:
         a = str(y['ledger']['tx_count'])
@@ -89,4 +90,4 @@ while True:
 
     no_repeat = ledger
     no_repeat1 = ledger1
-    time.sleep(2)
+    time.sleep(1.5)
